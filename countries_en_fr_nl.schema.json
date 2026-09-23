@@ -1,0 +1,22 @@
+{
+  "description": "Довідник «Країни світу» (англійська, французька та нідерландська назви)",
+  "type": "object",
+  "required": ["nameEng", "nameFr", "nameNl"],
+  "properties": {
+    "nameEng": {
+      "description": "Англійська коротка назва",
+      "type": "string",
+      "public": true
+    },
+    "nameFr": {
+      "description": "Французька коротка назва",
+      "type": "string",
+      "public": true
+    },
+    "nameNl": {
+      "description": "Нідерландська коротка назва",
+      "type": "string",
+      "public": true
+    }
+  }
+}
