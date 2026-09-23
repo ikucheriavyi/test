@@ -1,8 +1,19 @@
 {
   "description": "Довідник «Країни світу» (англійська, французька та нідерландська назви)",
   "type": "object",
-  "required": ["nameEng", "nameFr", "nameNl"],
+  "required": [
+    "code",
+    "nameEng",
+    "nameFr",
+    "nameNl"
+  ],
   "properties": {
+    "code": {
+      "description": "Код країни (ISO 3166-1 numeric)",
+      "type": "string",
+      "pattern": "^[0-9]{3}$",
+      "public": true
+    },
     "nameEng": {
       "description": "Англійська коротка назва",
       "type": "string",

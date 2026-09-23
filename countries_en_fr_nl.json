@@ -1,1245 +1,1494 @@
 [
   {
+    "code": "004",
     "nameEng": "Afghanistan",
     "nameFr": "Afghanistan",
     "nameNl": "Afghanistan"
   },
   {
+    "code": "008",
     "nameEng": "Albania",
     "nameFr": "Albanie",
     "nameNl": "Albanië"
   },
   {
+    "code": "012",
     "nameEng": "Algeria",
     "nameFr": "Algérie",
     "nameNl": "Algerije"
   },
   {
+    "code": "016",
     "nameEng": "American Samoa",
     "nameFr": "Samoa américaines",
     "nameNl": "Amerikaans-Samoa"
   },
   {
+    "code": "020",
     "nameEng": "Andorra",
     "nameFr": "Andorre",
     "nameNl": "Andorra"
   },
   {
+    "code": "024",
     "nameEng": "Angola",
     "nameFr": "Angola",
     "nameNl": "Angola"
   },
   {
+    "code": "660",
     "nameEng": "Anguilla",
     "nameFr": "Anguilla",
     "nameNl": "Anguilla"
   },
   {
+    "code": "010",
     "nameEng": "Antarctica",
     "nameFr": "Antarctique",
     "nameNl": "Antarctica"
   },
   {
+    "code": "028",
     "nameEng": "Antigua and Barbuda",
     "nameFr": "Antigua-et-Barbuda",
     "nameNl": "Antigua en Barbuda"
   },
   {
+    "code": "032",
     "nameEng": "Argentina",
     "nameFr": "Argentine",
     "nameNl": "Argentinië"
   },
   {
+    "code": "051",
     "nameEng": "Armenia",
     "nameFr": "Arménie",
     "nameNl": "Armenië"
   },
   {
+    "code": "533",
     "nameEng": "Aruba",
     "nameFr": "Aruba",
     "nameNl": "Aruba"
   },
   {
+    "code": "036",
     "nameEng": "Australia",
     "nameFr": "Australie",
     "nameNl": "Australië"
   },
   {
+    "code": "040",
     "nameEng": "Austria",
     "nameFr": "Autriche",
     "nameNl": "Oostenrijk"
   },
   {
+    "code": "031",
     "nameEng": "Azerbaijan",
     "nameFr": "Azerbaïdjan",
     "nameNl": "Azerbeidzjan"
   },
   {
+    "code": "044",
     "nameEng": "Bahamas",
     "nameFr": "Bahamas",
     "nameNl": "Bahama's"
   },
   {
+    "code": "048",
     "nameEng": "Bahrain",
     "nameFr": "Bahreïn",
     "nameNl": "Bahrein"
   },
   {
+    "code": "050",
     "nameEng": "Bangladesh",
     "nameFr": "Bangladesh",
     "nameNl": "Bangladesh"
   },
   {
+    "code": "052",
     "nameEng": "Barbados",
     "nameFr": "Barbade",
     "nameNl": "Barbados"
   },
   {
+    "code": "112",
     "nameEng": "Belarus",
     "nameFr": "Bélarus",
     "nameNl": "Wit-Rusland"
   },
   {
+    "code": "056",
     "nameEng": "Belgium",
     "nameFr": "Belgique",
     "nameNl": "België"
   },
   {
+    "code": "084",
     "nameEng": "Belize",
     "nameFr": "Belize",
     "nameNl": "Belize"
   },
   {
+    "code": "204",
     "nameEng": "Benin",
     "nameFr": "Bénin",
     "nameNl": "Benin"
   },
   {
+    "code": "060",
     "nameEng": "Bermuda",
     "nameFr": "Bermudes",
     "nameNl": "Bermuda"
   },
   {
+    "code": "064",
     "nameEng": "Bhutan",
     "nameFr": "Bhoutan",
     "nameNl": "Bhutan"
   },
   {
+    "code": "068",
     "nameEng": "Bolivia",
     "nameFr": "Bolivie",
     "nameNl": "Bolivia"
   },
   {
+    "code": "535",
     "nameEng": "Bonaire, Sint Eustatius and Saba",
     "nameFr": "Bonaire, Saint-Eustache et Saba",
     "nameNl": "Bonaire, Sint Eustatius en Saba"
   },
   {
+    "code": "070",
     "nameEng": "Bosnia and Herzegovina",
     "nameFr": "Bosnie-Herzégovine",
     "nameNl": "Bosnië en Herzegovina"
   },
   {
+    "code": "072",
     "nameEng": "Botswana",
     "nameFr": "Botswana",
     "nameNl": "Botswana"
   },
   {
+    "code": "074",
     "nameEng": "Bouvet Island",
     "nameFr": "Île Bouvet",
     "nameNl": "Bouveteiland"
   },
   {
+    "code": "076",
     "nameEng": "Brazil",
     "nameFr": "Brésil",
     "nameNl": "Brazilië"
   },
   {
+    "code": "086",
     "nameEng": "British Indian Ocean Territory",
     "nameFr": "Territoire britannique de l'océan Indien",
     "nameNl": "Brits Indische Oceaanterritorium"
   },
   {
+    "code": "092",
     "nameEng": "British Virgin Islands",
     "nameFr": "Îles Vierges britanniques",
     "nameNl": "Britse Maagdeneilanden"
   },
   {
+    "code": "096",
     "nameEng": "Brunei Darussalam",
     "nameFr": "Brunéi Darussalam",
     "nameNl": "Brunei"
   },
   {
+    "code": "100",
     "nameEng": "Bulgaria",
     "nameFr": "Bulgarie",
     "nameNl": "Bulgarije"
   },
   {
+    "code": "854",
     "nameEng": "Burkina Faso",
     "nameFr": "Burkina Faso",
     "nameNl": "Burkina Faso"
   },
   {
+    "code": "108",
     "nameEng": "Burundi",
     "nameFr": "Burundi",
     "nameNl": "Burundi"
   },
   {
+    "code": "132",
     "nameEng": "Cabo Verde",
     "nameFr": "Cap-Vert",
     "nameNl": "Kaapverdië"
   },
   {
+    "code": "116",
     "nameEng": "Cambodia",
     "nameFr": "Cambodge",
     "nameNl": "Cambodja"
   },
   {
+    "code": "120",
     "nameEng": "Cameroon",
     "nameFr": "Cameroun",
     "nameNl": "Kameroen"
   },
   {
+    "code": "124",
     "nameEng": "Canada",
     "nameFr": "Canada",
     "nameNl": "Canada"
   },
   {
+    "code": "136",
     "nameEng": "Cayman Islands",
     "nameFr": "Îles Caïmans",
     "nameNl": "Kaaimaneilanden"
   },
   {
+    "code": "140",
     "nameEng": "Central African Republic",
     "nameFr": "République centrafricaine",
     "nameNl": "Centraal-Afrikaanse Republiek"
   },
   {
+    "code": "148",
     "nameEng": "Chad",
     "nameFr": "Tchad",
     "nameNl": "Tsjaad"
   },
   {
+    "code": "152",
     "nameEng": "Chile",
     "nameFr": "Chili",
     "nameNl": "Chili"
   },
   {
+    "code": "156",
     "nameEng": "China",
     "nameFr": "Chine",
     "nameNl": "China"
   },
   {
+    "code": "162",
     "nameEng": "Christmas Island",
     "nameFr": "Île Christmas",
     "nameNl": "Christmaseiland"
   },
   {
+    "code": "166",
     "nameEng": "Cocos (Keeling) Islands",
     "nameFr": "Îles Cocos (Keeling)",
     "nameNl": "Cocoseilanden (Keelingeilanden)"
   },
   {
+    "code": "170",
     "nameEng": "Colombia",
     "nameFr": "Colombie",
     "nameNl": "Colombia"
   },
   {
+    "code": "174",
     "nameEng": "Comoros",
     "nameFr": "Comores",
     "nameNl": "Comoren"
   },
   {
+    "code": "178",
     "nameEng": "Congo",
     "nameFr": "République du Congo",
     "nameNl": "Congo"
   },
   {
+    "code": "184",
     "nameEng": "Cook Islands",
     "nameFr": "Îles Cook",
     "nameNl": "Cookeilanden"
   },
   {
+    "code": "188",
     "nameEng": "Costa Rica",
     "nameFr": "Costa Rica",
     "nameNl": "Costa Rica"
   },
   {
+    "code": "191",
     "nameEng": "Croatia",
     "nameFr": "Croatie",
     "nameNl": "Kroatië"
   },
   {
+    "code": "192",
     "nameEng": "Cuba",
     "nameFr": "Cuba",
     "nameNl": "Cuba"
   },
   {
+    "code": "531",
     "nameEng": "Curaçao",
     "nameFr": "Curaçao",
     "nameNl": "Curaçao"
   },
   {
+    "code": "196",
     "nameEng": "Cyprus",
     "nameFr": "Chypre",
     "nameNl": "Cyprus"
   },
   {
+    "code": "203",
     "nameEng": "Czechia",
     "nameFr": "Tchéquie",
     "nameNl": "Tsjechië"
   },
   {
+    "code": "384",
     "nameEng": "Côte d'Ivoire",
     "nameFr": "Côte d'Ivoire",
     "nameNl": "Ivoorkust"
   },
   {
+    "code": "180",
     "nameEng": "Democratic Republic of the Congo",
     "nameFr": "République démocratique du Congo",
     "nameNl": "Democratische Republiek Congo"
   },
   {
+    "code": "208",
     "nameEng": "Denmark",
     "nameFr": "Danemark",
     "nameNl": "Denemarken"
   },
   {
+    "code": "262",
     "nameEng": "Djibouti",
     "nameFr": "Djibouti",
     "nameNl": "Djibouti"
   },
   {
+    "code": "212",
     "nameEng": "Dominica",
     "nameFr": "Dominique",
     "nameNl": "Dominica"
   },
   {
+    "code": "214",
     "nameEng": "Dominican Republic",
     "nameFr": "République dominicaine",
     "nameNl": "Dominicaanse Republiek"
   },
   {
+    "code": "218",
     "nameEng": "Ecuador",
     "nameFr": "Équateur",
     "nameNl": "Ecuador"
   },
   {
+    "code": "818",
     "nameEng": "Egypt",
     "nameFr": "Égypte",
     "nameNl": "Egypte"
   },
   {
+    "code": "222",
     "nameEng": "El Salvador",
     "nameFr": "Salvador",
     "nameNl": "El Salvador"
   },
   {
+    "code": "226",
     "nameEng": "Equatorial Guinea",
     "nameFr": "Guinée Équatoriale",
     "nameNl": "Equatoriaal-Guinea"
   },
   {
+    "code": "232",
     "nameEng": "Eritrea",
     "nameFr": "Érythrée",
     "nameNl": "Eritrea"
   },
   {
+    "code": "233",
     "nameEng": "Estonia",
     "nameFr": "Estonie",
     "nameNl": "Estland"
   },
   {
+    "code": "748",
     "nameEng": "Eswatini",
     "nameFr": "Eswatini",
     "nameNl": "Eswatini"
   },
   {
+    "code": "231",
     "nameEng": "Ethiopia",
     "nameFr": "Éthiopie",
     "nameNl": "Ethiopië"
   },
   {
+    "code": "238",
     "nameEng": "Falkland Islands (Malvinas)",
     "nameFr": "Îles Malouines (Falkland)",
     "nameNl": "Falklandeilanden (Malvinas)"
   },
   {
+    "code": "234",
     "nameEng": "Faroe Islands",
     "nameFr": "Îles Féroé",
     "nameNl": "Faeröer"
   },
   {
+    "code": "242",
     "nameEng": "Fiji",
     "nameFr": "Fidji",
     "nameNl": "Fiji"
   },
   {
+    "code": "246",
     "nameEng": "Finland",
     "nameFr": "Finlande",
     "nameNl": "Finland"
   },
   {
+    "code": "250",
     "nameEng": "France",
     "nameFr": "France",
     "nameNl": "Frankrijk"
   },
   {
+    "code": "254",
     "nameEng": "French Guiana",
     "nameFr": "Guyane française",
     "nameNl": "Frans-Guyana"
   },
   {
+    "code": "258",
     "nameEng": "French Polynesia",
     "nameFr": "Polynésie française",
     "nameNl": "Frans-Polynesië"
   },
   {
+    "code": "260",
     "nameEng": "French Southern Territories",
     "nameFr": "Terres australes françaises",
     "nameNl": "Franse Zuidelijke Gebieden"
   },
   {
+    "code": "266",
     "nameEng": "Gabon",
     "nameFr": "Gabon",
     "nameNl": "Gabon"
   },
   {
+    "code": "270",
     "nameEng": "Gambia",
     "nameFr": "Gambie",
     "nameNl": "Gambia"
   },
   {
+    "code": "268",
     "nameEng": "Georgia",
     "nameFr": "Géorgie",
     "nameNl": "Georgia"
   },
   {
+    "code": "276",
     "nameEng": "Germany",
     "nameFr": "Allemagne",
     "nameNl": "Duitsland"
   },
   {
+    "code": "288",
     "nameEng": "Ghana",
     "nameFr": "Ghana",
     "nameNl": "Ghana"
   },
   {
+    "code": "292",
     "nameEng": "Gibraltar",
     "nameFr": "Gibraltar",
     "nameNl": "Gibraltar"
   },
   {
+    "code": "300",
     "nameEng": "Greece",
     "nameFr": "Grèce",
     "nameNl": "Griekenland"
   },
   {
+    "code": "304",
     "nameEng": "Greenland",
     "nameFr": "Groënland",
     "nameNl": "Groenland"
   },
   {
+    "code": "308",
     "nameEng": "Grenada",
     "nameFr": "Grenade",
     "nameNl": "Grenada"
   },
   {
+    "code": "312",
     "nameEng": "Guadeloupe",
     "nameFr": "Guadeloupe",
     "nameNl": "Guadeloupe"
   },
   {
+    "code": "316",
     "nameEng": "Guam",
     "nameFr": "Guam",
     "nameNl": "Guam"
   },
   {
+    "code": "320",
     "nameEng": "Guatemala",
     "nameFr": "Guatemala",
     "nameNl": "Guatemala"
   },
   {
+    "code": "831",
     "nameEng": "Guernsey",
     "nameFr": "Guernesey",
     "nameNl": "Guernsey"
   },
   {
+    "code": "324",
     "nameEng": "Guinea",
     "nameFr": "Guinée",
     "nameNl": "Guinee"
   },
   {
+    "code": "624",
     "nameEng": "Guinea-Bissau",
     "nameFr": "Guinée-Bissau",
     "nameNl": "Guinee-Bissau"
   },
   {
+    "code": "328",
     "nameEng": "Guyana",
     "nameFr": "Guyana",
     "nameNl": "Guyana"
   },
   {
+    "code": "332",
     "nameEng": "Haiti",
     "nameFr": "Haïti",
     "nameNl": "Haïti"
   },
   {
+    "code": "334",
     "nameEng": "Heard Island and McDonald Islands",
     "nameFr": "Îles Heard-et-MacDonald",
     "nameNl": "Heardeiland en McDonaldeilanden"
   },
   {
+    "code": "336",
     "nameEng": "Holy See (Vatican City State)",
     "nameFr": "Saint-Siège (état de la cité du Vatican)",
     "nameNl": "Vaticaanstad"
   },
   {
+    "code": "340",
     "nameEng": "Honduras",
     "nameFr": "Honduras",
     "nameNl": "Honduras"
   },
   {
+    "code": "344",
     "nameEng": "Hong Kong",
     "nameFr": "Hong Kong",
     "nameNl": "Hongkong"
   },
   {
+    "code": "348",
     "nameEng": "Hungary",
     "nameFr": "Hongrie",
     "nameNl": "Hongarije"
   },
   {
+    "code": "352",
     "nameEng": "Iceland",
     "nameFr": "Islande",
     "nameNl": "IJsland"
   },
   {
+    "code": "356",
     "nameEng": "India",
     "nameFr": "Inde",
     "nameNl": "India"
   },
   {
+    "code": "360",
     "nameEng": "Indonesia",
     "nameFr": "Indonésie",
     "nameNl": "Indonesië"
   },
   {
+    "code": "364",
     "nameEng": "Iran",
     "nameFr": "Iran",
     "nameNl": "Iran"
   },
   {
+    "code": "368",
     "nameEng": "Iraq",
     "nameFr": "Irak",
     "nameNl": "Irak"
   },
   {
+    "code": "372",
     "nameEng": "Ireland",
     "nameFr": "Irlande",
     "nameNl": "Ierland"
   },
   {
+    "code": "833",
     "nameEng": "Isle of Man",
     "nameFr": "Île de Man",
     "nameNl": "Eiland Man"
   },
   {
+    "code": "376",
     "nameEng": "Israel",
     "nameFr": "Israël",
     "nameNl": "Israël"
   },
   {
+    "code": "380",
     "nameEng": "Italy",
     "nameFr": "Italie",
     "nameNl": "Italië"
   },
   {
+    "code": "388",
     "nameEng": "Jamaica",
     "nameFr": "Jamaïque",
     "nameNl": "Jamaica"
   },
   {
+    "code": "392",
     "nameEng": "Japan",
     "nameFr": "Japon",
     "nameNl": "Japan"
   },
   {
+    "code": "832",
     "nameEng": "Jersey",
     "nameFr": "Jersey",
     "nameNl": "Jersey"
   },
   {
+    "code": "400",
     "nameEng": "Jordan",
     "nameFr": "Jordanie",
     "nameNl": "Jordanië"
   },
   {
+    "code": "398",
     "nameEng": "Kazakhstan",
     "nameFr": "Kazakhstan",
     "nameNl": "Kazachstan"
   },
   {
+    "code": "404",
     "nameEng": "Kenya",
     "nameFr": "Kenya",
     "nameNl": "Kenia"
   },
   {
+    "code": "296",
     "nameEng": "Kiribati",
     "nameFr": "Kiribati",
     "nameNl": "Kiribati"
   },
   {
+    "code": "414",
     "nameEng": "Kuwait",
     "nameFr": "Koweït",
     "nameNl": "Koeweit"
   },
   {
+    "code": "417",
     "nameEng": "Kyrgyzstan",
     "nameFr": "Kirghizistan",
     "nameNl": "Kirgizië"
   },
   {
+    "code": "418",
     "nameEng": "Laos",
     "nameFr": "Laos",
     "nameNl": "Laos"
   },
   {
+    "code": "428",
     "nameEng": "Latvia",
     "nameFr": "Lettonie",
     "nameNl": "Letland"
   },
   {
+    "code": "422",
     "nameEng": "Lebanon",
     "nameFr": "Liban",
     "nameNl": "Libanon"
   },
   {
+    "code": "426",
     "nameEng": "Lesotho",
     "nameFr": "Lesotho",
     "nameNl": "Lesotho"
   },
   {
+    "code": "430",
     "nameEng": "Liberia",
     "nameFr": "Libéria",
     "nameNl": "Liberia"
   },
   {
+    "code": "434",
     "nameEng": "Libya",
     "nameFr": "Libye",
     "nameNl": "Libië"
   },
   {
+    "code": "438",
     "nameEng": "Liechtenstein",
     "nameFr": "Liechtenstein",
     "nameNl": "Liechtenstein"
   },
   {
+    "code": "440",
     "nameEng": "Lithuania",
     "nameFr": "Lituanie",
     "nameNl": "Litouwen"
   },
   {
+    "code": "442",
     "nameEng": "Luxembourg",
     "nameFr": "Luxembourg",
     "nameNl": "Luxemburg"
   },
   {
+    "code": "446",
     "nameEng": "Macao",
     "nameFr": "Macau",
     "nameNl": "Macau"
   },
   {
+    "code": "450",
     "nameEng": "Madagascar",
     "nameFr": "Madagascar",
     "nameNl": "Madagaskar"
   },
   {
+    "code": "454",
     "nameEng": "Malawi",
     "nameFr": "Malawi",
     "nameNl": "Malawi"
   },
   {
+    "code": "458",
     "nameEng": "Malaysia",
     "nameFr": "Malaisie",
     "nameNl": "Maleisië"
   },
   {
+    "code": "462",
     "nameEng": "Maldives",
     "nameFr": "Maldives",
     "nameNl": "Maldiven"
   },
   {
+    "code": "466",
     "nameEng": "Mali",
     "nameFr": "Mali",
     "nameNl": "Mali"
   },
   {
+    "code": "470",
     "nameEng": "Malta",
     "nameFr": "Malte",
     "nameNl": "Malta"
   },
   {
+    "code": "584",
     "nameEng": "Marshall Islands",
     "nameFr": "Îles Marshall",
     "nameNl": "Marshalleilanden"
   },
   {
+    "code": "474",
     "nameEng": "Martinique",
     "nameFr": "Martinique",
     "nameNl": "Martinique"
   },
   {
+    "code": "478",
     "nameEng": "Mauritania",
     "nameFr": "Mauritanie",
     "nameNl": "Mauritanië"
   },
   {
+    "code": "480",
     "nameEng": "Mauritius",
     "nameFr": "Maurice",
     "nameNl": "Mauritius"
   },
   {
+    "code": "175",
     "nameEng": "Mayotte",
     "nameFr": "Mayotte",
     "nameNl": "Mayotte"
   },
   {
+    "code": "484",
     "nameEng": "Mexico",
     "nameFr": "Mexique",
     "nameNl": "Mexico"
   },
   {
+    "code": "583",
     "nameEng": "Micronesia",
     "nameFr": "Micronésie",
     "nameNl": "Micronesië"
   },
   {
+    "code": "498",
     "nameEng": "Moldova",
     "nameFr": "Moldavie",
     "nameNl": "Moldavië"
   },
   {
+    "code": "492",
     "nameEng": "Monaco",
     "nameFr": "Monaco",
     "nameNl": "Monaco"
   },
   {
+    "code": "496",
     "nameEng": "Mongolia",
     "nameFr": "Mongolie",
     "nameNl": "Mongolië"
   },
   {
+    "code": "499",
     "nameEng": "Montenegro",
     "nameFr": "Monténégro",
     "nameNl": "Montenegro"
   },
   {
+    "code": "500",
     "nameEng": "Montserrat",
     "nameFr": "Montserrat",
     "nameNl": "Montserrat"
   },
   {
+    "code": "504",
     "nameEng": "Morocco",
     "nameFr": "Maroc",
     "nameNl": "Marokko"
   },
   {
+    "code": "508",
     "nameEng": "Mozambique",
     "nameFr": "Mozambique",
     "nameNl": "Mozambique"
   },
   {
+    "code": "104",
     "nameEng": "Myanmar",
     "nameFr": "Birmanie",
     "nameNl": "Myanmar"
   },
   {
+    "code": "516",
     "nameEng": "Namibia",
     "nameFr": "Namibie",
     "nameNl": "Namibië"
   },
   {
+    "code": "520",
     "nameEng": "Nauru",
     "nameFr": "Nauru",
     "nameNl": "Nauru"
   },
   {
+    "code": "524",
     "nameEng": "Nepal",
     "nameFr": "Népal",
     "nameNl": "Nepal"
   },
   {
+    "code": "528",
     "nameEng": "Netherlands",
     "nameFr": "Pays-Bas",
     "nameNl": "Nederland"
   },
   {
+    "code": "540",
     "nameEng": "New Caledonia",
     "nameFr": "Nouvelle-Calédonie",
     "nameNl": "Nieuw-Caledonië"
   },
   {
+    "code": "554",
     "nameEng": "New Zealand",
     "nameFr": "Nouvelle-Zélande",
     "nameNl": "Nieuw-Zeeland"
   },
   {
+    "code": "558",
     "nameEng": "Nicaragua",
     "nameFr": "Nicaragua",
     "nameNl": "Nicaragua"
   },
   {
+    "code": "562",
     "nameEng": "Niger",
     "nameFr": "Niger",
     "nameNl": "Niger"
   },
   {
+    "code": "566",
     "nameEng": "Nigeria",
     "nameFr": "Nigeria",
     "nameNl": "Nigeria"
   },
   {
+    "code": "570",
     "nameEng": "Niue",
     "nameFr": "Nioue",
     "nameNl": "Niue"
   },
   {
+    "code": "574",
     "nameEng": "Norfolk Island",
     "nameFr": "Île Norfolk",
     "nameNl": "Norfolk"
   },
   {
+    "code": "408",
     "nameEng": "North Korea",
     "nameFr": "Corée du Nord",
     "nameNl": "Noord-Korea"
   },
   {
+    "code": "807",
     "nameEng": "North Macedonia",
     "nameFr": "Macédoine du Nord",
     "nameNl": "Noord-Macedonië"
   },
   {
+    "code": "580",
     "nameEng": "Northern Mariana Islands",
     "nameFr": "Îles Mariannes du Nord",
     "nameNl": "Noordelijke Marianen"
   },
   {
+    "code": "578",
     "nameEng": "Norway",
     "nameFr": "Norvège",
     "nameNl": "Noorwegen"
   },
   {
+    "code": "512",
     "nameEng": "Oman",
     "nameFr": "Oman",
     "nameNl": "Oman"
   },
   {
+    "code": "586",
     "nameEng": "Pakistan",
     "nameFr": "Pakistan",
     "nameNl": "Pakistan"
   },
   {
+    "code": "585",
     "nameEng": "Palau",
     "nameFr": "Palaos",
     "nameNl": "Palau"
   },
   {
+    "code": "275",
     "nameEng": "Palestine",
     "nameFr": "Palestine",
     "nameNl": "Palestina"
   },
   {
+    "code": "591",
     "nameEng": "Panama",
     "nameFr": "Panama",
     "nameNl": "Panama"
   },
   {
+    "code": "598",
     "nameEng": "Papua New Guinea",
     "nameFr": "Papouasie-Nouvelle-Guinée",
     "nameNl": "Papoea-Nieuw-Guinea"
   },
   {
+    "code": "600",
     "nameEng": "Paraguay",
     "nameFr": "Paraguay",
     "nameNl": "Paraguay"
   },
   {
+    "code": "604",
     "nameEng": "Peru",
     "nameFr": "Pérou",
     "nameNl": "Peru"
   },
   {
+    "code": "608",
     "nameEng": "Philippines",
     "nameFr": "Philippines",
     "nameNl": "Filipijnen"
   },
   {
+    "code": "612",
     "nameEng": "Pitcairn",
     "nameFr": "Îles Pitcairn",
     "nameNl": "Pitcairneilanden"
   },
   {
+    "code": "616",
     "nameEng": "Poland",
     "nameFr": "Pologne",
     "nameNl": "Polen"
   },
   {
+    "code": "620",
     "nameEng": "Portugal",
     "nameFr": "Portugal",
     "nameNl": "Portugal"
   },
   {
+    "code": "630",
     "nameEng": "Puerto Rico",
     "nameFr": "Porto Rico",
     "nameNl": "Puerto Rico"
   },
   {
+    "code": "634",
     "nameEng": "Qatar",
     "nameFr": "Qatar",
     "nameNl": "Qatar"
   },
   {
+    "code": "642",
     "nameEng": "Romania",
     "nameFr": "Roumanie",
     "nameNl": "Roemenië"
   },
   {
+    "code": "643",
     "nameEng": "Russia",
     "nameFr": "Russie",
     "nameNl": "Rusland"
   },
   {
+    "code": "646",
     "nameEng": "Rwanda",
     "nameFr": "Rwanda",
     "nameNl": "Rwanda"
   },
   {
+    "code": "638",
     "nameEng": "Réunion",
     "nameFr": "La Réunion",
     "nameNl": "Réunion"
   },
   {
+    "code": "652",
     "nameEng": "Saint Barthélemy",
     "nameFr": "Saint-Barthélemy",
     "nameNl": "Saint-Barthélemy"
   },
   {
+    "code": "654",
     "nameEng": "Saint Helena, Ascension and Tristan da Cunha",
     "nameFr": "Sainte-Hélène, Ascension et Tristan da Cunha",
     "nameNl": "Sint-Helena, Ascension en Tristan da Cunha"
   },
   {
+    "code": "659",
     "nameEng": "Saint Kitts and Nevis",
     "nameFr": "Saint-Christophe-et-Niévès",
     "nameNl": "Saint Kitts en Nevis"
   },
   {
+    "code": "662",
     "nameEng": "Saint Lucia",
     "nameFr": "Sainte-Lucie",
     "nameNl": "Saint Lucia"
   },
   {
+    "code": "663",
     "nameEng": "Saint Martin (French part)",
     "nameFr": "Saint-Martin (partie française)",
     "nameNl": "Sint-Maarten (Frans deel)"
   },
   {
+    "code": "666",
     "nameEng": "Saint Pierre and Miquelon",
     "nameFr": "Saint-Pierre-et-Miquelon",
     "nameNl": "Saint-Pierre en Miquelon"
   },
   {
+    "code": "670",
     "nameEng": "Saint Vincent and the Grenadines",
     "nameFr": "Saint-Vincent-et-les-Grenadines",
     "nameNl": "Saint Vincent en de Grenadines"
   },
   {
+    "code": "882",
     "nameEng": "Samoa",
     "nameFr": "Samoa",
     "nameNl": "Samoa"
   },
   {
+    "code": "674",
     "nameEng": "San Marino",
     "nameFr": "Saint-Marin",
     "nameNl": "San Marino"
   },
   {
+    "code": "678",
     "nameEng": "Sao Tome and Principe",
     "nameFr": "Sao Tomé-et-Principe",
     "nameNl": "Sao Tomé en Principe"
   },
   {
+    "code": "682",
     "nameEng": "Saudi Arabia",
     "nameFr": "Arabie saoudite",
     "nameNl": "Saoedi-Arabië"
   },
   {
+    "code": "686",
     "nameEng": "Senegal",
     "nameFr": "Sénégal",
     "nameNl": "Senegal"
   },
   {
+    "code": "688",
     "nameEng": "Serbia",
     "nameFr": "Serbie",
     "nameNl": "Servië"
   },
   {
+    "code": "690",
     "nameEng": "Seychelles",
     "nameFr": "Seychelles",
     "nameNl": "Seychellen"
   },
   {
+    "code": "694",
     "nameEng": "Sierra Leone",
     "nameFr": "Sierra Leone",
     "nameNl": "Sierra Leone"
   },
   {
+    "code": "702",
     "nameEng": "Singapore",
     "nameFr": "Singapour",
     "nameNl": "Singapore"
   },
   {
+    "code": "534",
     "nameEng": "Sint Maarten (Dutch part)",
     "nameFr": "Saint-Martin (partie néerlandaise)",
     "nameNl": "Sint Maarten (Nederlands deel)"
   },
   {
+    "code": "703",
     "nameEng": "Slovakia",
     "nameFr": "Slovaquie",
     "nameNl": "Slowakije"
   },
   {
+    "code": "705",
     "nameEng": "Slovenia",
     "nameFr": "Slovénie",
     "nameNl": "Slovenië"
   },
   {
+    "code": "090",
     "nameEng": "Solomon Islands",
     "nameFr": "Îles Salomon",
     "nameNl": "Salomonseilanden"
   },
   {
+    "code": "706",
     "nameEng": "Somalia",
     "nameFr": "Somalie",
     "nameNl": "Somalië"
   },
   {
+    "code": "710",
     "nameEng": "South Africa",
     "nameFr": "Afrique du Sud",
     "nameNl": "Zuid-Afrika"
   },
   {
+    "code": "239",
     "nameEng": "South Georgia and the South Sandwich Islands",
     "nameFr": "Géorgie du Sud et les îles Sandwich du Sud",
     "nameNl": "Zuid-Georgia en de Zuidelijke Sandwicheilanden"
   },
   {
+    "code": "410",
     "nameEng": "South Korea",
     "nameFr": "Corée du Sud",
     "nameNl": "Zuid-Korea"
   },
   {
+    "code": "728",
     "nameEng": "South Sudan",
     "nameFr": "Soudan du Sud",
     "nameNl": "Zuid-Soedan"
   },
   {
+    "code": "724",
     "nameEng": "Spain",
     "nameFr": "Espagne",
     "nameNl": "Spanje"
   },
   {
+    "code": "144",
     "nameEng": "Sri Lanka",
     "nameFr": "Sri Lanka",
     "nameNl": "Sri Lanka"
   },
   {
+    "code": "729",
     "nameEng": "Sudan",
     "nameFr": "Soudan",
     "nameNl": "Soedan"
   },
   {
+    "code": "740",
     "nameEng": "Suriname",
     "nameFr": "Surinam",
     "nameNl": "Suriname"
   },
   {
+    "code": "744",
     "nameEng": "Svalbard and Jan Mayen",
     "nameFr": "Svalbard et île Jan Mayen",
     "nameNl": "Spitsbergen en Jan Mayen"
   },
   {
+    "code": "752",
     "nameEng": "Sweden",
     "nameFr": "Suède",
     "nameNl": "Zweden"
   },
   {
+    "code": "756",
     "nameEng": "Switzerland",
     "nameFr": "Suisse",
     "nameNl": "Zwitserland"
   },
   {
+    "code": "760",
     "nameEng": "Syria",
     "nameFr": "Syrie",
     "nameNl": "Syrië"
   },
   {
+    "code": "158",
     "nameEng": "Taiwan",
     "nameFr": "Taïwan",
     "nameNl": "Taiwan"
   },
   {
+    "code": "762",
     "nameEng": "Tajikistan",
     "nameFr": "Tadjikistan",
     "nameNl": "Tadzjikistan"
   },
   {
+    "code": "834",
     "nameEng": "Tanzania",
     "nameFr": "Tanzanie",
     "nameNl": "Tanzania"
   },
   {
+    "code": "764",
     "nameEng": "Thailand",
     "nameFr": "Thaïlande",
     "nameNl": "Thailand"
   },
   {
+    "code": "626",
     "nameEng": "Timor-Leste",
     "nameFr": "Timor oriental",
     "nameNl": "Oost-Timor"
   },
   {
+    "code": "768",
     "nameEng": "Togo",
     "nameFr": "Togo",
     "nameNl": "Togo"
   },
   {
+    "code": "772",
     "nameEng": "Tokelau",
     "nameFr": "Tokelau",
     "nameNl": "Tokelau"
   },
   {
+    "code": "776",
     "nameEng": "Tonga",
     "nameFr": "Tonga",
     "nameNl": "Tonga"
   },
   {
+    "code": "780",
     "nameEng": "Trinidad and Tobago",
     "nameFr": "Trinité-et-Tobago",
     "nameNl": "Trinidad en Tobago"
   },
   {
+    "code": "788",
     "nameEng": "Tunisia",
     "nameFr": "Tunisie",
     "nameNl": "Tunesië"
   },
   {
+    "code": "795",
     "nameEng": "Turkmenistan",
     "nameFr": "Turkménistan",
     "nameNl": "Turkmenistan"
   },
   {
+    "code": "796",
     "nameEng": "Turks and Caicos Islands",
     "nameFr": "Îles Turques-et-Caïques",
     "nameNl": "Turks- en Caicoseilanden"
   },
   {
+    "code": "798",
     "nameEng": "Tuvalu",
     "nameFr": "Tuvalu",
     "nameNl": "Tuvalu"
   },
   {
+    "code": "792",
     "nameEng": "Türkiye",
     "nameFr": "Turquie",
     "nameNl": "Turkije"
   },
   {
+    "code": "850",
     "nameEng": "U.S. Virgin Islands",
     "nameFr": "Îles Vierges des États-Unis",
     "nameNl": "Amerikaanse Maagdeneilanden"
   },
   {
+    "code": "800",
     "nameEng": "Uganda",
     "nameFr": "Ouganda",
     "nameNl": "Oeganda"
   },
   {
+    "code": "804",
     "nameEng": "Ukraine",
     "nameFr": "Ukraine",
     "nameNl": "Oekraïne"
   },
   {
+    "code": "784",
     "nameEng": "United Arab Emirates",
     "nameFr": "Émirats arabes unis",
     "nameNl": "Verenigde Arabische Emiraten"
   },
   {
+    "code": "826",
     "nameEng": "United Kingdom",
     "nameFr": "Royaume-Uni",
     "nameNl": "Verenigd Koninkrijk"
   },
   {
+    "code": "840",
     "nameEng": "United States",
     "nameFr": "États-Unis",
     "nameNl": "Verenigde Staten"
   },
   {
+    "code": "581",
     "nameEng": "United States Minor Outlying Islands",
     "nameFr": "Îles mineures éloignées des États-Unis",
     "nameNl": "Kleine afgelegen eilanden van de Verenigde Staten"
   },
   {
+    "code": "858",
     "nameEng": "Uruguay",
     "nameFr": "Uruguay",
     "nameNl": "Uruguay"
   },
   {
+    "code": "860",
     "nameEng": "Uzbekistan",
     "nameFr": "Ouzbékistan",
     "nameNl": "Oezbekistan"
   },
   {
+    "code": "548",
     "nameEng": "Vanuatu",
     "nameFr": "Vanuatu",
     "nameNl": "Vanuatu"
   },
   {
+    "code": "862",
     "nameEng": "Venezuela",
     "nameFr": "Venezuela",
     "nameNl": "Venezuela"
   },
   {
+    "code": "704",
     "nameEng": "Vietnam",
     "nameFr": "Viêt Nam",
     "nameNl": "Vietnam"
   },
   {
+    "code": "876",
     "nameEng": "Wallis and Futuna",
     "nameFr": "Wallis et Futuna",
     "nameNl": "Wallis en Futuna"
   },
   {
+    "code": "732",
     "nameEng": "Western Sahara",
     "nameFr": "Sahara occidental",
     "nameNl": "Westelijke Sahara"
   },
   {
+    "code": "887",
     "nameEng": "Yemen",
     "nameFr": "Yémen",
     "nameNl": "Jemen"
   },
   {
+    "code": "894",
     "nameEng": "Zambia",
     "nameFr": "Zambie",
     "nameNl": "Zambia"
   },
   {
+    "code": "716",
     "nameEng": "Zimbabwe",
     "nameFr": "Zimbabwe",
     "nameNl": "Zimbabwe"
   },
   {
+    "code": "248",
     "nameEng": "Åland Islands",
     "nameFr": "Îles Åland",
     "nameNl": "Ålandseilanden"
